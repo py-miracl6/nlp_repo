@@ -44,7 +44,7 @@ def evaluate(f, tests):
 
 def pipeline(model):
     # тестовые данные
-    with open("datasets/test_small.txt", encoding="cp1251") as g:
+    with open("datasets/test.txt", encoding="cp1251") as g:
         tests = g.readlines()
 
     # модель пар слов соседей
