@@ -22,7 +22,7 @@ st.markdown("Прикрепите файл с классом **SpellingCorrector
 def checking(result):
     """Сверка с метриками"""
     if result >= 90:
-        return st.success(f"Все верно! Ваш результат: {result}%.  Ключ = 086")
+        return st.success(f"Все верно! Ваш результат: {result}%.  Ключ = 964")
     else:
         return st.error(
             f"Ваш результат: {result}. Постарайтесь еще поработать над кодом"
