@@ -2,7 +2,3 @@ solution.py
 **/__pycache__
 .DS_Store
 .idea/
-/nerel_finetuned_last_checkpoint/
-/nerel_finetuned_last_checkpoint.zip
-/folder_model/__MACOSX/
-/folder_model/nerel_finetuned_last_checkpoint/
